@@ -2,3 +2,6 @@
 # Task-01
 Landing page created using basic HTML and CSS - 
 https://harshada2913.github.io/TXON-internship/TXON_01/index.html
+# Task-02
+A Simple Calculator using Basic Html, CSS, and JavaScript - 
+https://harshada2913.github.io/TXON-internship/TXON_02/index.html
