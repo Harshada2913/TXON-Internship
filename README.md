@@ -5,3 +5,6 @@ https://harshada2913.github.io/TXON-internship/TXON_01/index.html
 # Task-02
 A Simple Calculator using Basic Html, CSS, and JavaScript - 
 https://harshada2913.github.io/TXON-internship/TXON_02/index.html
+# Task-02
+A to-do list app using HTML, CSS and JavaScript - 
+https://harshada2913.github.io/TXON-internship/TXON_03/index.html
